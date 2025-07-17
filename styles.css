@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.main{
+	width:300px;
+	border:2px solid black;
+	
+}
+.margin{
+	margin:20px;
+
+}
+.border{
+	border:15px solid blue;
+	background-color:blue;
+	
+}
+.padding{
+	padding:50px;
+	background-color:lightblue;
+}
+
+p{
+	text-align:ce
+}
